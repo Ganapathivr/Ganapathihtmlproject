@@ -1,0 +1,22 @@
+{
+  "name": "calculator-website",
+  "version": "1.0.0",
+  "description": "A simple calculator website with colorful buttons.",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "calculator",
+    "web",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
